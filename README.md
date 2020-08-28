@@ -7,10 +7,10 @@
 
 Slides produced in 2019 for teaching Essential Computing using Java at Roskilde University (RUC), HumTek, over the course of one semester. It is aimed at students with little or no programming experience and is meant to be accompanied by the book [Think Java](http://www.amazon.com/gp/product/1491929561). Emphasis is put on core programming concepts, reflected by the fact that the students rely on no other UI than [NetBeans IntelliJ IDEA](https://www.jetbrains.com/help/idea/netbeans.html) and the terminal.
 
-The material is put out here n the case other teachers want to reuse or be inspired by some of it.
+The material is put out here in the case other teachers may be inspired or want to reuse some of it.
 
 
-### Personal notes
+### Personal note
 
 Java is by no means my favorite programming language, it just happens to be what they use at RUC HumTek. Also, this is possibly the first and last course I will teach that does not involve audiovisual interaction. The great challenge for me designing this course was to keep the learning experience entertaining and motivating for the students while being restricted to the terminal interface. Judging from feedback from the students, I believe that I succeeded for the most part. Some students requested bonus assignments. It was also suggested that the hints mentioned in each micro assignment would benefit from an introductory overall strategy.
 
